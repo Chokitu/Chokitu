@@ -1,4 +1,4 @@
-### Shalom, I'm Daniel - aka [Chokitu](https://github.com/Chokitu) 👋  
+### I'm Daniel - aka [Chokitu](https://github.com/Chokitu) 👋  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/obujas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fobujas&screen_name=obujas)  
 
@@ -6,7 +6,7 @@
 
 I'm a **Brazilian 🇧🇷 Developer living in Canada 🇨🇦** with a few years of experience in programming, project execution, and customer service. My expertise includes **web development, game development, automation, and data analysis.**  
 
-- 🖥️ **Jewish** Developer.
+- 🖥️ Developer.
 - 🔭 I'm becoming more active on GitHub after mostly using it for private repositories.  
 - 🌱 Currently focusing on **Python, JavaScript, and automation.**  
 - 👯 Passionate about mentoring and **helping new developers** grow.  
