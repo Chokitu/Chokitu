@@ -1,41 +1,49 @@
-### Wassup, I'm Daniel - aka [Chokitu][website] 👋 
+### Shalom, I'm Daniel - aka [Chokitu](https://github.com/Chokitu) 👋  
 
-[![Website](https://img.shields.io/website?label=bujar.ski&style=for-the-badge&url=https%3A%2F%2Fbujar.ski)](https://bujar.ski)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChokituRO?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2ChokituRO&screen_name=ChokituRO)
+[![Twitter Follow](https://img.shields.io/twitter/follow/obujas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fobujas&screen_name=obujas)  
 
-## I'm a Brazilian 🇧🇷 Developer living in Canada 🇨🇦!
+## About Me  
 
-- 🖥️ You will see that my Website doesn't work. I really want to buy that domain tho.
-- 🔭 I decided to be more active on Github, as I was just using for private repositories.
-- 🌱 I’m currently working more on Python and Javascript 🤣
-- 👯 I’m always looking to find people to help new developers
-- 🥅 2025 Goals: Contribute more to Open Source projects.
-- ⚽ Best Soccer Team: FLAMENGO PORRA
+I'm a **Brazilian 🇧🇷 Developer living in Canada 🇨🇦** with a few years of experience in programming, project execution, and customer service. My expertise includes **web development, game development, automation, and data analysis.**  
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-Fluent Languages:
-
-🇧🇷 - Portuguese
-🇨🇦 - English
-🇪🇸 - Spanish
-
-I do speak a little bit of 9 different languages, tho.
-<br />
-<br />
+- 🖥️ **Jewish** Developer.
+- 🔭 I'm becoming more active on GitHub after mostly using it for private repositories.  
+- 🌱 Currently focusing on **Python, JavaScript, and automation.**  
+- 👯 Passionate about mentoring and **helping new developers** grow.  
+- 🥅 **2025 Goals:** Contribute more to **Open Source projects** and expand my technical skills.  
+- ⚽ Best Soccer Team: **FLAMENGO!**  
 
 ---
 
-</details>
+### 💼 Freelance Experience  
 
-[website]: https://bujar.ski
-[twitter]: https://twitter.com/ChokituRO
-[instagram]: https://instagram.com/danitov1
+#### **Freelance Developer** *(2017 - Present)*  
+- Developed web interfaces using **HTML, CSS, JavaScript, Node.js, React, and Three.js**, integrated with **MongoDB**.  
+- Created game systems and plugins using **C++, C#, Lua**, and worked with **Unreal Engine, Unity, and Proprietary Engines**.  
+- Built custom **automation solutions** with **Python (Pandas, NumPy, SciPy)**.  
+- Developed **real-time 3D model detection** using **YOLOv5m6 and PyTorch**.  
+- and more...
+---
+
+### 🛠️ Tech Stack  
+
+- **Languages:** Python, JavaScript, C++, C#, Lua, PHP, SQL, Java  
+- **Frameworks & Libraries:** React, Three.js, PyTorch, Pandas, NumPy  
+- **Databases:** MySQL, MongoDB  
+- **DevOps & Tools:** Git, Linux, SAP Applications, Cloud Computing  
+
+---
+
+### 🌎 Languages  
+
+- **Fluent:** 🇧🇷 Portuguese, 🇨🇦 English, 🇪🇸 Spanish  
+- **Conversational:** Chinese (Simplified) and a little bit of 9 other languages.  
+
+---
+
+### 📫 Connect with Me  
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/obujas)  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/danitov1)  
+
+---
