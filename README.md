@@ -9,7 +9,7 @@
 - 🔭 I decided to be more active on Github, as I was just using for private repositories.
 - 🌱 I’m currently working more on Python and Javascript 🤣
 - 👯 I’m always looking to find people to help new developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and get Strong as fuck (gym goals)
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚽ Best Soccer Team: FLAMENGO PORRA
 
 ### Connect with me:
